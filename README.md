@@ -20,8 +20,8 @@ Atualmente estou focada em aprofundar os meus conhecimentos em **Python**. TambÃ
 
 ### ðŸ“« Conecta-te comigo:
 <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/TEU_USER_AQUI" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:TEU_EMAIL@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="linkedin.com/in/maria-eduarda-457606321" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:eduardamauricio99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 ---
