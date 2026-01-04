@@ -2,7 +2,7 @@
 
 ### 🎓 Estudante de Sistemas de Informação & Análise e Desenvolvimento de Sistemas
 
-Atualmente estou focada em aprofundar os meus conhecimentos em **Python** e já possuo uma base sólida em **Java**. Também desenvolvo soluções práticas utilizando **Excel** para análise e organização de dados.
+Atualmente estou focada em aprofundar os meus conhecimentos em **Python** . Também desenvolvi soluções práticas utilizando **Excel** para análise e organização de dados.
 
 ---
 
