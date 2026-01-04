@@ -3,8 +3,9 @@
 
 ### 🎓 Estudante de Sistemas de Informação & Análise e Desenvolvimento de Sistemas
 
-Atualmente estou focada em aprofundar os meus conhecimentos em **Python**. Também desenvolvi soluções práticas utilizando **Excel** para análise e organização de dados.
+Atualmente estou focada em aprofundar os meus conhecimentos em **Python** e já possuo uma base sólida em **Java**. Também desenvolvo soluções práticas utilizando **Excel** para análise e organização de dados.
 
+---
 
 ### 🛠 Tecnologias e Ferramentas:
 
@@ -20,7 +21,7 @@ Atualmente estou focada em aprofundar os meus conhecimentos em **Python**. Tamb�
 
 ### 📫 Conecta-te comigo:
 <div style="display: inline_block">
-  <a href="linkedin.com/in/maria-eduarda-457606321" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/maria-eduarda-457606321" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:eduardamauricio99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
